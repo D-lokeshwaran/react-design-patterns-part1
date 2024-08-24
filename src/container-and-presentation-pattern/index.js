@@ -1,0 +1,1 @@
+export { default as ContainerPresentationPatternExample } from "./components/ContainerComponent";
